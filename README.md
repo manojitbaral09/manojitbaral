@@ -1,66 +1,74 @@
 <h1 align="center">Hi 👋, I'm Manojit Baral</h1>
-<h3 align="center">Cloud Architect | DevOps Enthusiast | Python Developer</h3>
+<h3 align="center">Cloud Architect | DevOps Specialist | Python Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manojit-baral" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:manojitbaral@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
-- 🔭 I’m currently working as a **Cloud Architect**
-- 🌱 I’m expanding my expertise in **Kubernetes & Cost Optimization**
-- 💬 Ask me about **AWS, Terraform, Python, DevOps, Machine Learning**
-- 📫 Reach me at **manojitbaral@gmail.com**
-- 🌐 My Website: *coming soon*
+### 🧑‍💼 About Me
+
+- 🌩 I architect and deploy scalable cloud solutions using **AWS**
+- 🔧 Experienced in **Infrastructure as Code** using **Terraform**
+- 🐍 Write efficient backend automation in **Python**
+- 🚀 Work with **CI/CD**, **Containers**, and **DevOps pipelines**
+- 🎯 Passionate about helping businesses scale with cloud-native solutions
+- 💬 Ask me about: `AWS`, `Python`, `DevOps`, `ML Deployment`, `Terraform`
+- 📫 Reach me at: **manojitbaral@gmail.com**
 
 ---
 
-### 🚀 Skills
+### 💡 Tech Stack
 
-**Cloud Platforms:**
-`AWS` `Azure` `Google Cloud` `CloudFormation` `EKS` `Lambda`
+#### ☁️ Cloud & DevOps
+`AWS` `Terraform` `Jenkins` `Ansible` `Docker` `Kubernetes` `CI/CD` `CloudWatch`
 
-**DevOps & Infrastructure:**
-`Terraform` `Jenkins` `Ansible` `CI/CD Pipelines` `Docker` `Kubernetes`
+#### 🧠 ML & Data
+`Machine Learning` `Deep Learning` `Model Deployment` `Power BI` `PostgreSQL`
 
-**Languages & Tools:**
-`Python` `Boto3` `Shell Scripting` `PostgreSQL` `Power BI` `Git` `VS Code`
+#### 🧰 Languages & Tools
+`Python` `Boto3` `Shell Scripting` `Git` `Linux` `VS Code`
 
 ---
 
-### 📊 GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manojitbaral&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojitbaral&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manojitbaral&show_icons=true&theme=github_dark" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manojitbaral&layout=compact&theme=github_dark" height="150"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 📂 Featured Projects
 
-- [🔗 AWS Automation with Terraform](#) *(Add a GitHub repo link)*
-- [🔗 ML Model Deployment via Flask](#)
-- [🔗 Cost Optimization Script with Boto3](#)
-
----
-
-### ✍️ Recent Blog Posts
-*(If you don’t have a blog, you can remove this section or link Medium)*
+- 🔹 [AWS Automation with Terraform](#)
+- 🔹 [CI/CD Pipeline for Python Flask App](#)
+- 🔹 [Real-time Monitoring using CloudWatch + Lambda](#)
+- 🔹 [ML Model Deployment on EC2 with Flask + Nginx](#)
 
 ---
 
-### 🌐 Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/manojit-baral)
-- [Twitter](#)
-- [Email](mailto:manojitbaral@gmail.com)
+### 🧠 Learning Goals
+
+- ☁️ Advanced Kubernetes & EKS
+- 💰 AWS Cost Optimization strategies
+- 📉 Scaling Machine Learning workloads with SageMaker
 
 ---
 
-⭐️ Star your favorite repositories to show your interests and contributions!
+### 🌐 Let’s Connect
+
+- 🌍 [LinkedIn](https://www.linkedin.com/in/manojit-baral)
+- 📧 [Email](mailto:manojitbaral@gmail.com)
+
+---
+
+> “Build systems that scale, automate what can break, and learn in public.”
+
